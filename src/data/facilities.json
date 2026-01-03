@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Masjid Jami'",
+        "desc": "Pusat ibadah dan kajian dengan kapasitas 1000 jamaah.",
+        "img": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?q=80&w=1000"
+    },
+    {
+        "id": "2",
+        "name": "Gedung Kelas Modern",
+        "desc": "Ruang kelas ber-AC dilengkapi proyektor dan multimedia.",
+        "img": "https://images.unsplash.com/photo-1510531704581-5b2870972060?q=80&w=1000"
+    },
+    {
+        "id": "3",
+        "name": "Asrama Santri",
+        "desc": "Asrama bersih dan nyaman, terpisah putra dan putri.",
+        "img": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?q=80&w=1000"
+    },
+    {
+        "id": "4",
+        "name": "Laboratorium Komputer",
+        "desc": "Fasilitas lengkap untuk pembelajaran TIK dan Coding.",
+        "img": "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1000"
+    }
+]

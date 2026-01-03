@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Ust. Handoko Al-Hafidz",
+        "subject": "Tahfidz 30 Juz",
+        "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=400",
+        "category": "quran"
+    },
+    {
+        "id": "2",
+        "name": "Usth. Aisyah Al-Hafidzah",
+        "subject": "Tahfidz Putri",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400",
+        "category": "quran"
+    },
+    {
+        "id": "3",
+        "name": "Bpk. Budi Santoso M.Pd",
+        "subject": "Matematika",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400",
+        "category": "general"
+    },
+    {
+        "id": "4",
+        "name": "Ibu Siti Aminah S.Si",
+        "subject": "Fisika",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400",
+        "category": "general"
+    },
+    {
+        "id": "5",
+        "name": "Mr. John Doe B.Ed",
+        "subject": "English Native",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400",
+        "category": "general"
+    },
+    {
+        "id": "6",
+        "name": "Ust. Ahmad S.Ag",
+        "subject": "Bahasa Arab",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400",
+        "category": "general"
+    }
+]

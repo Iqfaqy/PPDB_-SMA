@@ -1,0 +1,23 @@
+{
+    "academic_year": "2026/2027",
+    "is_open": true,
+    "wave_1": {
+        "name": "Gelombang 1",
+        "dates": "1 Oktober - 31 Desember 2025",
+        "active": true
+    },
+    "wave_2": {
+        "name": "Gelombang 2",
+        "dates": "1 Januari - 31 Maret 2026",
+        "active": false
+    },
+    "test_schedule": "Setiap hari Ahad pekan pertama & ketiga",
+    "requirements": [
+        "Lulusan SMP/MTs sederajat",
+        "Memiliki NISN",
+        "Mengisi formulir pendaftaran",
+        "Pas foto 3x4 (Background Merah/Biru)",
+        "Scan Kartu Keluarga & Akta Kelahiran",
+        "Surat Keterangan Sehat"
+    ]
+}

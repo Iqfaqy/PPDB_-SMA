@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "activity": "Sholat Tahajud & Witir",
+        "time": "03:30 - 04:30",
+        "description": "Persiapan sholat subuh dan qiyamul lail berjamaah"
+    },
+    {
+        "id": "2",
+        "activity": "Sholat Subuh & Dzikir Pagi",
+        "time": "04:30 - 05:30",
+        "description": "Sholat subuh berjamaah diikuti dzikir pagi dan kultum"
+    },
+    {
+        "id": "3",
+        "activity": "Halaqah Tahfidz Pagi",
+        "time": "05:30 - 07:00",
+        "description": "Setoran hafalan baru (ziyadah) kepada musyrif"
+    },
+    {
+        "id": "4",
+        "activity": "KBM Formal (Sekolah)",
+        "time": "07:30 - 12:30",
+        "description": "Kegiatan Belajar Mengajar di kelas (Kurikulum Nasional)"
+    }
+]

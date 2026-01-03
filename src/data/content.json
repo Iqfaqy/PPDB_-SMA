@@ -1,0 +1,43 @@
+{
+    "hero": {
+        "title_line1": "Mencetak Generasi",
+        "title_highlight": "Qur'ani & Berprestasi",
+        "description": "Paduan kurikulum nasional dan kepesantrenan modern untuk membentuk karakter islami yang kuat dan wawasan global.",
+        "bg_image": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?q=80&w=1920&auto=format&fit=crop",
+        "badge_text": "Penerimaan Santri Baru Telah Dibuka"
+    },
+    "features": [
+        {
+            "icon": "BookOpen",
+            "title": "Kurikulum Terpadu",
+            "desc": "Integrasi kurikulum Nasional dan Pesantren (Tahfidz & Kitab Kuning)."
+        },
+        {
+            "icon": "UserCheck",
+            "title": "Pembinaan Akhlak",
+            "desc": "Fokus utama pada pembentukan adab dan karakter islami sehari-hari."
+        },
+        {
+            "icon": "Award",
+            "title": "Prestasi Global",
+            "desc": "Mencetak santri berprestasi tingkat nasional hingga internasional."
+        }
+    ],
+    "about": {
+        "badge": "Tentang Kami",
+        "title": "Pendidikan Berkualitas Berlandaskan Iman & Taqwa",
+        "description": "Pesantren kami berkomitmen mencetak kader ulama dan intelektual muslim yang siap menghadapi tantangan zaman tanpa kehilangan jati diri keislamannya.",
+        "list_items": [
+            "Program Tahfidz 30 Juz Bersanad",
+            "Pembelajaran Bahasa Arab & Inggris Intensif",
+            "Ekstrakurikuler Robotik & Coding",
+            "Asrama Modern & Nyaman"
+        ],
+        "image": "https://images.unsplash.com/photo-1566458512720-72eee2498715?q=80&w=1000&auto=format&fit=crop"
+    },
+    "quote": {
+        "arabic": "يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ",
+        "translation": "\"Niscaya Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat.\"",
+        "source": "— Q.S. Al-Mujadilah: 11"
+    }
+}
