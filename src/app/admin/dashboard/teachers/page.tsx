@@ -83,7 +83,7 @@ export default function TeachersPage() {
         <div>
             <div className="flex justify-between items-center mb-6">
                 <h1 className="text-2xl font-bold text-gray-800">Manajemen Guru & Asatidz</h1>
-                <button icon={<Plus size={18} />} onClick={handleAdd} className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium flex items-center gap-2">
+                <button onClick={handleAdd} className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium flex items-center gap-2">
                     <Plus size={18} /> Tambah Pengajar
                 </button>
             </div>
